@@ -3,8 +3,14 @@ package empresa;
 public class Empresa {
 
     public static void main(String[] args) {
-        System.out.println("Hola mundo");
-        System.out.println("Estoy trabajando en git");
+        for(int i = 0; i < 100 ; i=i+2){
+            System.out.println("numero: " + i);
+            
+        
+            
+            
+        }
+           
     }
     
 }
